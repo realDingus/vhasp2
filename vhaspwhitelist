@@ -1,10 +1,10 @@
 --Beemo's simple whitelist
-_G.Key = "VhaspPrefireLockedOnYou"
+_G.Key = "lockedbyme13"
 
 local keys = {
     "Ced",
     "PreLok",
-    "VhaspPrefireLockedOnYou"
+    "lockedbyme13"
 }
 
 local counter = 1
