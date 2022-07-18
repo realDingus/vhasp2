@@ -1,5 +1,5 @@
 --Beemo's simple whitelist
-_G.Key = "lockedbyme13"
+_G.Key = "PreLok"
 
 local keys = {
     "Ced",
