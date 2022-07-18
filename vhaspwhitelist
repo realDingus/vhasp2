@@ -4,7 +4,7 @@ _G.Key = "lockedbyme13"
 local keys = {
     "Ced",
     "PreLok",
-    "lockedbyme13"
+    "lockfor4133"
 }
 
 local counter = 1
